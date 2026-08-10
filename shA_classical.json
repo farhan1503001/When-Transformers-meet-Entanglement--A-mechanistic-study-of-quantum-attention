@@ -1,0 +1,49 @@
+{
+  "classical": {
+    "0": {
+      "test_acc": 0.7622368421052632,
+      "val_acc": 0.796,
+      "best_epoch": 20,
+      "H_quantum": NaN,
+      "H_classical": 2.0189351240793862,
+      "params": 855556,
+      "seconds": 833.3
+    },
+    "1": {
+      "test_acc": 0.7564473684210526,
+      "val_acc": 0.79,
+      "best_epoch": 9,
+      "H_quantum": NaN,
+      "H_classical": 2.0444741249084473,
+      "params": 855556,
+      "seconds": 1428.7
+    },
+    "2": {
+      "test_acc": 0.7535526315789474,
+      "val_acc": 0.766,
+      "best_epoch": 5,
+      "H_quantum": NaN,
+      "H_classical": 2.1326773166656494,
+      "params": 855556,
+      "seconds": 1268.3
+    },
+    "3": {
+      "test_acc": 0.746578947368421,
+      "val_acc": 0.774,
+      "best_epoch": 9,
+      "H_quantum": NaN,
+      "H_classical": 1.8074366251627605,
+      "params": 855556,
+      "seconds": 1428.6
+    },
+    "4": {
+      "test_acc": 0.7530263157894737,
+      "val_acc": 0.75,
+      "best_epoch": 8,
+      "H_quantum": NaN,
+      "H_classical": 2.1055986086527505,
+      "params": 855556,
+      "seconds": 1241.7
+    }
+  }
+}

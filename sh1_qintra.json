@@ -1,0 +1,22 @@
+{
+  "qintra": {
+    "0": {
+      "test_acc": 0.848,
+      "val_acc": 0.834,
+      "best_epoch": 19,
+      "H_quantum": 2.049204170703888,
+      "H_classical": NaN,
+      "params": 276323,
+      "seconds": 23907.3
+    },
+    "1": {
+      "test_acc": 0.882,
+      "val_acc": 0.822,
+      "best_epoch": 15,
+      "H_quantum": 1.9147725105285645,
+      "H_classical": NaN,
+      "params": 276323,
+      "seconds": 20436.6
+    }
+  }
+}

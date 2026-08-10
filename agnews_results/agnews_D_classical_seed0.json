@@ -1,0 +1,14 @@
+{
+  "classical": {
+    "test_acc": 0.5685526315789474,
+    "val_acc": 0.608,
+    "best_epoch": 9,
+    "H_quantum": NaN,
+    "H_classical": 1.9577745199203491,
+    "params": 416708,
+    "n_qubits": 4,
+    "n_heads": 4,
+    "quantum_in_block": 0,
+    "seconds": 10.1
+  }
+}

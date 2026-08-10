@@ -1,0 +1,6 @@
+condition,seed,test_acc,val_acc,best_epoch,H_quantum,H_classical,params
+classical,0,0.84,0.832,13,nan,nan,276038
+classical,1,0.868,0.838,20,nan,nan,276038
+classical,2,0.864,0.842,20,nan,nan,276038
+classical,3,0.882,0.838,15,nan,nan,276038
+classical,4,0.858,0.812,16,nan,nan,276038

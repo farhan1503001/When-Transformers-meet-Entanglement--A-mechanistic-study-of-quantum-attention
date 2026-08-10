@@ -1,0 +1,38 @@
+{
+  "qnone": {
+    "test_acc": 0.5660526315789474,
+    "val_acc": 0.57,
+    "best_epoch": 10,
+    "H_quantum": 1.921303649743398,
+    "H_classical": 1.9767261147499084,
+    "params": 416893,
+    "n_qubits": 8,
+    "n_heads": 4,
+    "quantum_in_block": 0,
+    "seconds": 1334.1
+  },
+  "qcross": {
+    "test_acc": 0.5746052631578947,
+    "val_acc": 0.606,
+    "best_epoch": 12,
+    "H_quantum": 1.7604828675587971,
+    "H_classical": 1.9757040143013,
+    "params": 416893,
+    "n_qubits": 8,
+    "n_heads": 4,
+    "quantum_in_block": 0,
+    "seconds": 1523.0
+  },
+  "qfull": {
+    "test_acc": 0.5702631578947368,
+    "val_acc": 0.574,
+    "best_epoch": 11,
+    "H_quantum": 2.117089629173279,
+    "H_classical": 1.9086737632751465,
+    "params": 416893,
+    "n_qubits": 8,
+    "n_heads": 4,
+    "quantum_in_block": 0,
+    "seconds": 1752.6
+  }
+}

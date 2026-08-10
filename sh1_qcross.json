@@ -1,0 +1,22 @@
+{
+  "qcross": {
+    "0": {
+      "test_acc": 0.858,
+      "val_acc": 0.844,
+      "best_epoch": 10,
+      "H_quantum": 2.074269711971283,
+      "H_classical": NaN,
+      "params": 276323,
+      "seconds": 23913.0
+    },
+    "1": {
+      "test_acc": 0.878,
+      "val_acc": 0.834,
+      "best_epoch": 17,
+      "H_quantum": 1.933214157819748,
+      "H_classical": NaN,
+      "params": 276323,
+      "seconds": 20553.6
+    }
+  }
+}

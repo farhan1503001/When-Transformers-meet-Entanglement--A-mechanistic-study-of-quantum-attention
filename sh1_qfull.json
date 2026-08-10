@@ -1,0 +1,22 @@
+{
+  "qfull": {
+    "0": {
+      "test_acc": 0.86,
+      "val_acc": 0.842,
+      "best_epoch": 16,
+      "H_quantum": 2.0692315101623535,
+      "H_classical": NaN,
+      "params": 276323,
+      "seconds": 24116.0
+    },
+    "1": {
+      "test_acc": 0.866,
+      "val_acc": 0.828,
+      "best_epoch": 14,
+      "H_quantum": 1.8427346646785736,
+      "H_classical": NaN,
+      "params": 276323,
+      "seconds": 20647.3
+    }
+  }
+}

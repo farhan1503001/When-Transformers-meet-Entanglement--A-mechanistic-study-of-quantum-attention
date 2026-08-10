@@ -1,0 +1,22 @@
+{
+  "qnone": {
+    "0": {
+      "test_acc": 0.874,
+      "val_acc": 0.834,
+      "best_epoch": 19,
+      "H_quantum": 2.054474651813507,
+      "H_classical": NaN,
+      "params": 276323,
+      "seconds": 23386.6
+    },
+    "1": {
+      "test_acc": 0.874,
+      "val_acc": 0.834,
+      "best_epoch": 19,
+      "H_quantum": 1.449946403503418,
+      "H_classical": NaN,
+      "params": 276323,
+      "seconds": 20261.1
+    }
+  }
+}
