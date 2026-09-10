@@ -1,6 +1,6 @@
 # [Paper Title: e.g., Quantum Attention Mechanisms for Quantum Transformers]
 
-Official PyTorch / PennyLane implementation of the paper **"[Paper Title]"**.
+Official PyTorch / PennyLane implementation of the paper **"[When Quantum Meets Transformer Attention- A Controlled Study of Quantum Attention Heads]"**.
 
 [![arXiv](https://img.shields.io/badge/arXiv-2400.00000-b31b1b.svg)](https://arxiv.org/abs/2400.00000)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
