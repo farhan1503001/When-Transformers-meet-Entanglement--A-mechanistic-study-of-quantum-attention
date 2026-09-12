@@ -11,7 +11,7 @@ Official PyTorch / PennyLane implementation of the paper **"[When Quantum Meets 
 
 ## 📌 Abstract
 
-> **Abstract:** *Paste your abstract here. A short 3–5 sentence summary highlighting the motivation behind integrating quantum computing with attention mechanisms, your proposed architecture, key experiments, and main performance gains over classical baselines.*
+> **Abstract:** * Integrating parameterized quantum circuits (PQCs) with classical deep learning architectures offers a promising frontier for Quantum Machine Learning (QML). However, the precise operational benefits and scaling dynamics of quantum mechanisms within core foundational models remain underexplored. In this work, we present a controlled empirical study investigating the integration of quantum entanglement directly into transformer self-attention mechanisms via hybrid quantum attention heads. By mapping token representations into Hilbert spaces through parameterized entangling layers, we systematically evaluate how quantum-enhanced attention captures long-range and non-local token dependencies relative to standard classical attention counterparts. Our findings demonstrate that quantum attention heads achieve richer representational capacity and capture complex token interactions across benchmark natural language tasks, while simultaneously revealing critical trade-offs regarding circuit depth, parameter expressibility, and classical-quantum interface scaling. This study establishes a rigorous comparative baseline for evaluating hybrid quantum-classical attention designs in modern transformer architectures.*
 
 ---
 
